@@ -1,0 +1,16 @@
+Student Enrollment System
+
+Salesforce Admin Project
+
+Project Description:
+This is a Student Enrollment System built on Salesforce for TNSDC.
+
+Features:
+
+- Student Registration
+- Course Management
+- Enrollment Tracking
+- Reports and Dashboard
+
+Created by:
+U. Viruthambal
